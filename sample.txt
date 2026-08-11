@@ -2,9 +2,9 @@
 
 This is a simple file for learning Git branches.
 
-Version 2
+Version 3
 Learning GitHub.
 
 my name is DK
 
-This change is made in feature-1.
+This change is made in feature-2.
